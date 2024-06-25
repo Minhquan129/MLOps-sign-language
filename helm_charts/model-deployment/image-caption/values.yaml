@@ -1,0 +1,4 @@
+image:
+  repository: sonha2/slr_app
+  tag: v5
+  pullPolicy: Always # Should be IfNotPresent when using tag number and Always if latest
